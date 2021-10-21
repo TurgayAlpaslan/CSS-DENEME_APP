@@ -1,0 +1,26 @@
+@charset "utf-8";
+body {
+	background-image: url(../img/coffee-background-1.jpg);
+}
+
+.ortala{
+	text-align:center;
+	}
+	p{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+		}
+	a.buton{
+	background-color: #300;
+	color: #FFF;
+	padding: 20px 30px;
+	font-weight: bold;
+	font-size: 12px;
+	border-radius: 10px;
+	text-decoration: none;
+		}
+		a.buton:hover{
+	background-color: #FFFv;
+	color: #FFF;
+}
+	
